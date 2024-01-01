@@ -3,6 +3,10 @@ A list of awesome papers on LLM tool learning.
 
 API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs [[EMNLP](https://arxiv.org/abs/2304.08244)][[Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank)]
 
+Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
+
+Large Language Models as Tool Makers [[Arxiv](https://arxiv.org/abs/2305.17126)][[Code](https://github.com/ctlllll/llm-toolmaker)]
+
 Toolformer: Language Models Can Teach Themselves to Use Tools [[NeurIPS 2023](https://arxiv.org/abs/2302.04761)][[Code](https://github.com/lucidrains/toolformer-pytorch)]
 
 GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction [[NeurIPS 2023](https://arxiv.org/abs/2305.18752)][[Code](https://github.com/AILab-CVC/GPT4Tools)]
@@ -13,5 +17,24 @@ ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embedd
 
 ToolQA: A Dataset for LLM Question Answering with External Tools [[NeurIPS 2023](https://arxiv.org/abs/2306.13304)][[Code](https://github.com/night-chen/toolqa)]
 
+ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases [[Arxiv](https://arxiv.org/abs/2306.05301)][[Code](https://github.com/tangqiaoyu/ToolAlpaca)]
+
 Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum [[AAAI 2024](https://arxiv.org/abs/2308.14034)][[Code](https://github.com/shizhl/Confucius)]
 
+ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [[Arxiv](https://arxiv.org/pdf/2307.16789.pdf)][[Code](https://github.com/openbmb/toolbench)]
+
+CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets [[Arxiv](https://arxiv.org/abs/2309.17428)][[Code](https://github.com/lifan-yuan/craft)]
+
+ToolDec: Syntax Error-Free and Generalizable Tool Use for LLMs via Finite-State Decoding [[Arxiv](https://arxiv.org/abs/2310.07075)][[Code](https://github.com/chenhongqiao/tooldec)]
+
+Identifying the Risks of LM Agents with an LM-Emulated Sandbox [[Arxiv](https://arxiv.org/pdf/2309.15817.pdf)][[Code](https://github.com/ryoungj/ToolEmu)]
+
+ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search [[Arxiv](https://arxiv.org/pdf/2310.13227v1.pdf)]
+
+MetaTool Benchmark: Deciding Whether to Use Tools and Which to Use [[Arxiv](https://arxiv.org/abs/2310.03128)][[Code](https://github.com/howiehwong/metatool)]
+
+Tool-Augmented Reward Modeling [[Arxiv](https://arxiv.org/abs/2310.01045)]
+
+ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving [[Arxiv](https://arxiv.org/abs/2309.17452)][[Code](https://github.com/microsoft/ToRA)]
+
+MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback [[Arxiv](https://arxiv.org/abs/2309.10691)][[Code](https://github.com/xingyaoww/mint-bench)]
