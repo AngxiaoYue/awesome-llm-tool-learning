@@ -1,7 +1,7 @@
 # Awesome-LLM-Tool-Learning
 A list of awesome papers on LLM tool learning.
 
-
+## Papers
 Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
 
 Large Language Models as Tool Makers [[Arxiv](https://arxiv.org/abs/2305.17126)][[Code](https://github.com/ctlllll/llm-toolmaker)]
