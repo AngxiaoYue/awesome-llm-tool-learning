@@ -2,7 +2,7 @@
 A list of awesome papers on LLM tool learning.
 
 ## Survey
-Tool Learning with Foundation Models [[Arxiv](https://arxiv.org/abs/2304.08354)]
+Tool Learning with Foundation Models [[Arxiv](https://arxiv.org/abs/2304.08354)][[Code](https://github.com/openbmb/bmtools)]
 
 ## Papers
 Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
