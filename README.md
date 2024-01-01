@@ -1,7 +1,6 @@
 # Awesome-LLM-Tool-Learning
 A list of awesome papers on LLM tool learning.
 
-API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs [[EMNLP](https://arxiv.org/abs/2304.08244)][[Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank)]
 
 Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
 
@@ -14,8 +13,6 @@ GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction [[Neu
 Evaluating and Improving Tool-Augmented Computation-Intensive Math Reasoning [[NeurIPS 2023](https://arxiv.org/abs/2306.02408)][[Code](https://github.com/rucaibox/carp)]
 
 ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings [[NeurIPS 2023](https://arxiv.org/abs/2305.11554)][[Code](https://github.com/Ber666/ToolkenGPT)]
-
-ToolQA: A Dataset for LLM Question Answering with External Tools [[NeurIPS 2023](https://arxiv.org/abs/2306.13304)][[Code](https://github.com/night-chen/toolqa)]
 
 ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases [[Arxiv](https://arxiv.org/abs/2306.05301)][[Code](https://github.com/tangqiaoyu/ToolAlpaca)]
 
@@ -31,10 +28,23 @@ Identifying the Risks of LM Agents with an LM-Emulated Sandbox [[Arxiv](https://
 
 ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search [[Arxiv](https://arxiv.org/pdf/2310.13227v1.pdf)]
 
-MetaTool Benchmark: Deciding Whether to Use Tools and Which to Use [[Arxiv](https://arxiv.org/abs/2310.03128)][[Code](https://github.com/howiehwong/metatool)]
-
 Tool-Augmented Reward Modeling [[Arxiv](https://arxiv.org/abs/2310.01045)]
 
 ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving [[Arxiv](https://arxiv.org/abs/2309.17452)][[Code](https://github.com/microsoft/ToRA)]
 
+Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use [[Arxiv](https://arxiv.org/abs/2312.04455)]
+
+## Benchmark
+API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs [[EMNLP](https://arxiv.org/abs/2304.08244)][[Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank)]
+
+ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [[Arxiv](https://arxiv.org/pdf/2307.16789.pdf)][[Code](https://github.com/openbmb/toolbench)]
+
+ToolQA: A Dataset for LLM Question Answering with External Tools [[NeurIPS 2023](https://arxiv.org/abs/2306.13304)][[Code](https://github.com/night-chen/toolqa)]
+
+MetaTool Benchmark: Deciding Whether to Use Tools and Which to Use [[Arxiv](https://arxiv.org/abs/2310.03128)][[Code](https://github.com/howiehwong/metatool)]
+
+T-Eval: Evaluating the Tool Utilization Capability Step by Step [[Arxiv](https://arxiv.org/pdf/2312.14033.pdf)][[Code](https://github.com/open-compass/T-Eval)]
+
 MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback [[Arxiv](https://arxiv.org/abs/2309.10691)][[Code](https://github.com/xingyaoww/mint-bench)]
+
+
