@@ -37,6 +37,8 @@ ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving [[Arxiv
 
 Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use [[Arxiv](https://arxiv.org/abs/2312.04455)]
 
+ControlLLM: Augment Language Models with Tools by Searching on Graphs [[Arxiv](https://arxiv.org/pdf/2310.17796.pdf)][[Code](https://github.com/opengvlab/controlllm)]
+
 ## Benchmark
 API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs [[EMNLP](https://arxiv.org/abs/2304.08244)][[Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank)]
 
@@ -49,5 +51,7 @@ MetaTool Benchmark: Deciding Whether to Use Tools and Which to Use [[Arxiv](http
 T-Eval: Evaluating the Tool Utilization Capability Step by Step [[Arxiv](https://arxiv.org/pdf/2312.14033.pdf)][[Code](https://github.com/open-compass/T-Eval)]
 
 MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback [[Arxiv](https://arxiv.org/abs/2309.10691)][[Code](https://github.com/xingyaoww/mint-bench)]
+
+ToolEyes: Fine-Grained Evaluation for Tool Learning Capabilities of Large Language Models in Real-world Scenarios [[Arxiv](https://arxiv.org/abs/2401.00741)][[Code](https://github.com/junjie-ye/tooleyes)]
 
 
