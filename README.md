@@ -39,6 +39,8 @@ Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large La
 
 ControlLLM: Augment Language Models with Tools by Searching on Graphs [[Arxiv](https://arxiv.org/pdf/2310.17796.pdf)][[Code](https://github.com/opengvlab/controlllm)]
 
+GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution [[Arxiv](https://arxiv.org/abs/2307.08775)][[Code](https://github.com/yining610/gear)]
+
 ## Benchmark
 API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs [[EMNLP](https://arxiv.org/abs/2304.08244)][[Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank)]
 
