@@ -1,6 +1,9 @@
 # Awesome-LLM-Tool-Learning
 A list of awesome papers on LLM tool learning.
 
+## Preliminary
+ReAct: Synergizing Reasoning and Acting in Language Models [[ICLR 2023](cmt3.research.microsoft.com/AAAI2024/Submission/MetaReviews/14045)][[Code](https://github.com/ysymyth/ReAct)]
+
 ## Survey
 Tool Learning with Foundation Models [[Arxiv](https://arxiv.org/abs/2304.08354)][[Code](https://github.com/openbmb/bmtools)]
 
