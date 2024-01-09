@@ -38,6 +38,8 @@ Tool-Augmented Reward Modeling [[Arxiv](https://arxiv.org/abs/2310.01045)]
 
 ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving [[Arxiv](https://arxiv.org/abs/2309.17452)][[Code](https://github.com/microsoft/ToRA)]
 
+RestGPT: Connecting Large Language Models with Real-World RESTful APIs [[Arxiv](https://arxiv.org/abs/2306.06624)]
+
 Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use [[Arxiv](https://arxiv.org/abs/2312.04455)]
 
 ControlLLM: Augment Language Models with Tools by Searching on Graphs [[Arxiv](https://arxiv.org/pdf/2310.17796.pdf)][[Code](https://github.com/opengvlab/controlllm)]
