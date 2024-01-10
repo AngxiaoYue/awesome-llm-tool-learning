@@ -8,6 +8,8 @@ ReAct: Synergizing Reasoning and Acting in Language Models [[ICLR 2023](cmt3.res
 Tool Learning with Foundation Models [[Arxiv](https://arxiv.org/abs/2304.08354)][[Code](https://github.com/openbmb/bmtools)]
 
 ## Papers
+ART: Automatic multi-step reasoning and tool-use for large language models [[Arxiv](https://arxiv.org/abs/2303.09014)][[Code](https://github.com/guidance-ai/guidance)]
+
 Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
 
 Large Language Models as Tool Makers [[Arxiv](https://arxiv.org/abs/2305.17126)][[Code](https://github.com/ctlllll/llm-toolmaker)]
