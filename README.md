@@ -2,13 +2,13 @@
 A list of awesome papers on LLM tool learning.
 
 ## Preliminary
-ReAct: Synergizing Reasoning and Acting in Language Models [[ICLR 2023](cmt3.research.microsoft.com/AAAI2024/Submission/MetaReviews/14045)][[Code](https://github.com/ysymyth/ReAct)] ![](https://img.shields.io/badge/Tool_Oriented_Learning-green)
-
+ReAct: Synergizing Reasoning and Acting in Language Models [[ICLR 2023](cmt3.research.microsoft.com/AAAI2024/Submission/MetaReviews/14045)][[Code](https://github.com/ysymyth/ReAct)] 
 ## Survey
 Tool Learning with Foundation Models [[Arxiv](https://arxiv.org/abs/2304.08354)][[Code](https://github.com/openbmb/bmtools)]
 
 ## Papers
-ART: Automatic multi-step reasoning and tool-use for large language models [[Arxiv](https://arxiv.org/abs/2303.09014)][[Code](https://github.com/guidance-ai/guidance)]
+ART: Automatic multi-step reasoning and tool-use for large language models [[Arxiv](https://arxiv.org/abs/2303.09014)][[Code](https://github.com/guidance-ai/guidance)] ![](https://img.shields.io/badge/Math-green)
+
 
 Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
 
