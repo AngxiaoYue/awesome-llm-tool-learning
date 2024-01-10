@@ -20,6 +20,8 @@ Evaluating and Improving Tool-Augmented Computation-Intensive Math Reasoning [[N
 
 ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings [[NeurIPS 2023](https://arxiv.org/abs/2305.11554)][[Code](https://github.com/Ber666/ToolkenGPT)]
 
+TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage [[NeurIPS 2023 Workshop](https://arxiv.org/abs/2308.03427)]
+
 ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases [[Arxiv](https://arxiv.org/abs/2306.05301)][[Code](https://github.com/tangqiaoyu/ToolAlpaca)]
 
 Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum [[AAAI 2024](https://arxiv.org/abs/2308.14034)][[Code](https://github.com/shizhl/Confucius)]
@@ -45,6 +47,7 @@ Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large La
 ControlLLM: Augment Language Models with Tools by Searching on Graphs [[Arxiv](https://arxiv.org/pdf/2310.17796.pdf)][[Code](https://github.com/opengvlab/controlllm)]
 
 GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution [[Arxiv](https://arxiv.org/abs/2307.08775)][[Code](https://github.com/yining610/gear)]
+
 
 ## Benchmark
 (APIBench) Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
