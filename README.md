@@ -48,6 +48,8 @@ ControlLLM: Augment Language Models with Tools by Searching on Graphs [[Arxiv](h
 
 GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution [[Arxiv](https://arxiv.org/abs/2307.08775)][[Code](https://github.com/yining610/gear)]
 
+GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension [[Arxiv](https://arxiv.org/pdf/2312.17294.pdf)]
+
 
 ## Benchmark
 (APIBench) Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
