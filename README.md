@@ -41,6 +41,8 @@ Tool-Augmented Reward Modeling [[Arxiv](https://arxiv.org/abs/2310.01045)]
 
 ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving [[Arxiv](https://arxiv.org/abs/2309.17452)][[Code](https://github.com/microsoft/ToRA)]![](https://img.shields.io/badge/Math-green)
 
+CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing [[Arxiv](https://arxiv.org/pdf/2305.11738.pdf)][[Code](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)]
+
 RestGPT: Connecting Large Language Models with Real-World RESTful APIs [[Arxiv](https://arxiv.org/abs/2306.06624)]
 
 Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use [[Arxiv](https://arxiv.org/abs/2312.04455)]
