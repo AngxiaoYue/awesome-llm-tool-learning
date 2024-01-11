@@ -15,6 +15,8 @@ Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv
 
 Large Language Models as Tool Makers [[Arxiv](https://arxiv.org/abs/2305.17126)][[Code](https://github.com/ctlllll/llm-toolmaker)]
 
+Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models [[NeurIPS 2023](https://arxiv.org/abs/2304.09842)][[Code](https://github.com/lupantech/chameleon-llm)]
+
 Toolformer: Language Models Can Teach Themselves to Use Tools [[NeurIPS 2023](https://arxiv.org/abs/2302.04761)][[Code](https://github.com/lucidrains/toolformer-pytorch)]
 
 GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction [[NeurIPS 2023](https://arxiv.org/abs/2305.18752)][[Code](https://github.com/AILab-CVC/GPT4Tools)]
