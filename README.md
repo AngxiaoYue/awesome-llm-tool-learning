@@ -7,6 +7,8 @@ ReAct: Synergizing Reasoning and Acting in Language Models [[ICLR 2023](cmt3.res
 Tool Learning with Foundation Models [[Arxiv](https://arxiv.org/abs/2304.08354)][[Code](https://github.com/openbmb/bmtools)]
 
 ## Papers
+HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face [[Arxiv](https://arxiv.org/abs/2303.17580)][[Code](https://github.com/microsoft/JARVIS)]
+
 ART: Automatic multi-step reasoning and tool-use for large language models [[Arxiv](https://arxiv.org/abs/2303.09014)][[Code](https://github.com/guidance-ai/guidance)] ![](https://img.shields.io/badge/Math-green)
 
 Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
