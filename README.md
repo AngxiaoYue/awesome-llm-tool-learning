@@ -17,6 +17,8 @@ Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv
 
 Large Language Models as Tool Makers [[Arxiv](https://arxiv.org/abs/2305.17126)][[Code](https://github.com/ctlllll/llm-toolmaker)]
 
+CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning of Large Language Models [[EMNLP Findings 2023](https://aclanthology.org/2023.findings-emnlp.462.pdf)][[Code](https://github.com/qiancheng0/creator)]
+
 Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models [[NeurIPS 2023](https://arxiv.org/abs/2304.09842)][[Code](https://github.com/lupantech/chameleon-llm)]
 
 Toolformer: Language Models Can Teach Themselves to Use Tools [[NeurIPS 2023](https://arxiv.org/abs/2302.04761)][[Code](https://github.com/lucidrains/toolformer-pytorch)]
@@ -62,6 +64,8 @@ GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolutio
 GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension [[Arxiv](https://arxiv.org/pdf/2312.17294.pdf)]
 
 AppAgent: Multimodal Agents as Smartphone Users [[Arxiv](https://arxiv.org/abs/2312.13771)][[Code](https://github.com/mnotgod96/AppAgent?tab=readme-ov-file)]
+
+VIoTGPT: Learning to Schedule Vision Tools towards Intelligent Video Internet of Things [[Arxiv](https://arxiv.org/abs/2312.00401)]
 
 
 ## Benchmark
