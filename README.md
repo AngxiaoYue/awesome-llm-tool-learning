@@ -69,6 +69,11 @@ AppAgent: Multimodal Agents as Smartphone Users [[Arxiv](https://arxiv.org/abs/2
 
 VIoTGPT: Learning to Schedule Vision Tools towards Intelligent Video Internet of Things [[Arxiv](https://arxiv.org/abs/2312.00401)]
 
+Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning [[Arxiv](https://arxiv.org/pdf/2310.04474.pdf)][[Code](https://github.com/ASK-03/Reverse-Chain)]
+
+CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update [[Arxiv](https://arxiv.org/abs/2312.10908)]
+
+
 
 ## Benchmark
 (APIBench) Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
@@ -86,5 +91,9 @@ T-Eval: Evaluating the Tool Utilization Capability Step by Step [[Arxiv](https:/
 MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback [[Arxiv](https://arxiv.org/abs/2309.10691)][[Code](https://github.com/xingyaoww/mint-bench)]
 
 ToolEyes: Fine-Grained Evaluation for Tool Learning Capabilities of Large Language Models in Real-world Scenarios [[Arxiv](https://arxiv.org/abs/2401.00741)][[Code](https://github.com/junjie-ye/tooleyes)]
+
+A Comprehensive Evaluation of Tool-Assisted Generation Strategies [[EMNLP Findings 2023](https://arxiv.org/abs/2310.10062)]
+
+ToolTalk: Evaluating Tool-Usage in a Conversational Setting [[Arxiv](https://arxiv.org/abs/2311.10775)][[Code](https://github.com/microsoft/ToolTalk)]
 
 
