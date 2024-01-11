@@ -23,6 +23,8 @@ ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embedd
 
 TPTU: Large Language Model-based AI Agents for Task Planning and Tool Usage [[NeurIPS 2023 Workshop](https://arxiv.org/abs/2308.03427)]
 
+Making Language Models Better Tool Learners with Execution Feedback [[Arxiv](https://arxiv.org/abs/2305.13068)][[Code](https://github.com/zjunlp/trice)] ![](https://img.shields.io/badge/RL-orange)
+
 ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Cases [[Arxiv](https://arxiv.org/abs/2306.05301)][[Code](https://github.com/tangqiaoyu/ToolAlpaca)]
 
 Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum [[AAAI 2024](https://arxiv.org/abs/2308.14034)][[Code](https://github.com/shizhl/Confucius)]
