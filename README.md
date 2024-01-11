@@ -19,6 +19,8 @@ Large Language Models as Tool Makers [[Arxiv](https://arxiv.org/abs/2305.17126)]
 
 CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning of Large Language Models [[EMNLP Findings 2023](https://aclanthology.org/2023.findings-emnlp.462.pdf)][[Code](https://github.com/qiancheng0/creator)]
 
+On the Tool Manipulation Capability of Open-source Large Language Models [[Arxiv](https://arxiv.org/abs/2305.16504)][[Code](https://github.com/sambanova/toolbench)]
+
 Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models [[Arxiv](https://arxiv.org/pdf/2308.00675.pdf)]
 
 Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models [[NeurIPS 2023](https://arxiv.org/abs/2304.09842)][[Code](https://github.com/lupantech/chameleon-llm)]
