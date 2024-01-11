@@ -55,6 +55,8 @@ GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolutio
 
 GitAgent: Facilitating Autonomous Agent with GitHub by Tool Extension [[Arxiv](https://arxiv.org/pdf/2312.17294.pdf)]
 
+AppAgent: Multimodal Agents as Smartphone Users [[Arxiv](https://arxiv.org/abs/2312.13771)][[Code](https://github.com/mnotgod96/AppAgent?tab=readme-ov-file)]
+
 
 ## Benchmark
 (APIBench) Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
