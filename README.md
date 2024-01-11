@@ -15,6 +15,8 @@ ART: Automatic multi-step reasoning and tool-use for large language models [[Arx
 
 Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
 
+TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs [[Arxiv](https://arxiv.org/abs/2303.16434)][[Code](https://github.com/moymix/TaskMatrix)]
+
 Large Language Models as Tool Makers [[Arxiv](https://arxiv.org/abs/2305.17126)][[Code](https://github.com/ctlllll/llm-toolmaker)]
 
 CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning of Large Language Models [[EMNLP Findings 2023](https://aclanthology.org/2023.findings-emnlp.462.pdf)][[Code](https://github.com/qiancheng0/creator)]
