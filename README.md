@@ -83,6 +83,8 @@ FARS: Fsm-Augmentation to Make LLMs Hallucinate the Right APIs [[Arxiv](https://
 
 Reinforced UI Instruction Grounding: Towards a Generic UI Task Automation API [[Arxiv](https://arxiv.org/pdf/2310.04716.pdf)]
 
+Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering [[Arxiv](https://arxiv.org/abs/2401.01780)]
+
 
 
 ## Benchmark
