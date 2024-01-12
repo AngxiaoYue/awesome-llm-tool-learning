@@ -19,6 +19,8 @@ TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of
 
 Large Language Models as Tool Makers [[Arxiv](https://arxiv.org/abs/2305.17126)][[Code](https://github.com/ctlllll/llm-toolmaker)]
 
+Gentopia.AI: A Collaborative Platform for Tool-Augmented LLMs [[EMNLP 2023](https://aclanthology.org/2023.emnlp-demo.20/)][[Code](https://github.com/Gentopia-AI/Gentopia)]
+
 CREATOR: Tool Creation for Disentangling Abstract and Concrete Reasoning of Large Language Models [[EMNLP Findings 2023](https://aclanthology.org/2023.findings-emnlp.462.pdf)][[Code](https://github.com/qiancheng0/creator)]
 
 On the Tool Manipulation Capability of Open-source Large Language Models [[Arxiv](https://arxiv.org/abs/2305.16504)][[Code](https://github.com/sambanova/toolbench)]
