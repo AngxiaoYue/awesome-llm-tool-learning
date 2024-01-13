@@ -11,7 +11,7 @@ Tool Learning with Foundation Models [[Arxiv](https://arxiv.org/abs/2304.08354)]
 ## Papers
 HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face [[Arxiv](https://arxiv.org/abs/2303.17580)][[Code](https://github.com/microsoft/JARVIS)]
 
-ART: Automatic multi-step reasoning and tool-use for large language models [[Arxiv](https://arxiv.org/abs/2303.09014)][[Code](https://github.com/guidance-ai/guidance)] ![](https://img.shields.io/badge/Math-green)
+ART: Automatic multi-step reasoning and tool-use for large language models [[Arxiv](https://arxiv.org/abs/2303.09014)][[Code](https://github.com/guidance-ai/guidance)] 
 
 Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
 
@@ -33,7 +33,7 @@ Toolformer: Language Models Can Teach Themselves to Use Tools [[NeurIPS 2023](ht
 
 GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction [[NeurIPS 2023](https://arxiv.org/abs/2305.18752)][[Code](https://github.com/AILab-CVC/GPT4Tools)]
 
-Evaluating and Improving Tool-Augmented Computation-Intensive Math Reasoning [[NeurIPS 2023](https://arxiv.org/abs/2306.02408)][[Code](https://github.com/rucaibox/carp)]![](https://img.shields.io/badge/Math-green)
+Evaluating and Improving Tool-Augmented Computation-Intensive Math Reasoning [[NeurIPS 2023](https://arxiv.org/abs/2306.02408)][[Code](https://github.com/rucaibox/carp)
 
 ToolkenGPT: Augmenting Frozen Language Models with Massive Tools via Tool Embeddings [[NeurIPS 2023](https://arxiv.org/abs/2305.11554)][[Code](https://github.com/Ber666/ToolkenGPT)]
 
@@ -53,7 +53,7 @@ ToolDec: Syntax Error-Free and Generalizable Tool Use for LLMs via Finite-State 
 
 Identifying the Risks of LM Agents with an LM-Emulated Sandbox [[Arxiv](https://arxiv.org/pdf/2309.15817.pdf)][[Code](https://github.com/ryoungj/ToolEmu)]
 
-ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search [[Arxiv](https://arxiv.org/pdf/2310.13227v1.pdf)]
+ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search [[Arxiv](https://arxiv.org/pdf/2310.13227v1.pdf)] ![](https://img.shields.io/badge/Planning-green)
 
 Tool-Augmented Reward Modeling [[Arxiv](https://arxiv.org/abs/2310.01045)] ![](https://img.shields.io/badge/RL-orange)
 
@@ -65,7 +65,7 @@ RestGPT: Connecting Large Language Models with Real-World RESTful APIs [[Arxiv](
 
 Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use [[Arxiv](https://arxiv.org/abs/2312.04455)]
 
-ControlLLM: Augment Language Models with Tools by Searching on Graphs [[Arxiv](https://arxiv.org/pdf/2310.17796.pdf)][[Code](https://github.com/opengvlab/controlllm)]
+ControlLLM: Augment Language Models with Tools by Searching on Graphs [[Arxiv](https://arxiv.org/pdf/2310.17796.pdf)][[Code](https://github.com/opengvlab/controlllm)] ![](https://img.shields.io/badge/Planning-green)
 
 GEAR: Augmenting Language Models with Generalizable and Efficient Tool Resolution [[Arxiv](https://arxiv.org/abs/2307.08775)][[Code](https://github.com/yining610/gear)]
 
@@ -75,7 +75,7 @@ AppAgent: Multimodal Agents as Smartphone Users [[Arxiv](https://arxiv.org/abs/2
 
 VIoTGPT: Learning to Schedule Vision Tools towards Intelligent Video Internet of Things [[Arxiv](https://arxiv.org/abs/2312.00401)]
 
-Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning [[Arxiv](https://arxiv.org/pdf/2310.04474.pdf)][[Code](https://github.com/ASK-03/Reverse-Chain)]
+Reverse Chain: A Generic-Rule for LLMs to Master Multi-API Planning [[Arxiv](https://arxiv.org/pdf/2310.04474.pdf)][[Code](https://github.com/ASK-03/Reverse-Chain)] ![](https://img.shields.io/badge/Planning-green)
 
 CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update [[Arxiv](https://arxiv.org/abs/2312.10908)]
 
