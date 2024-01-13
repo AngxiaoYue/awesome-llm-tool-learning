@@ -81,7 +81,7 @@ CLOVA: A Closed-Loop Visual Assistant with Tool Usage and Update [[Arxiv](https:
 
 FARS: Fsm-Augmentation to Make LLMs Hallucinate the Right APIs [[Arxiv](https://openreview.net/pdf/847a1c7446716c28f2c9c63fa1d7bf07d02e7757.pdf)]
 
-Reinforced UI Instruction Grounding: Towards a Generic UI Task Automation API [[Arxiv](https://arxiv.org/pdf/2310.04716.pdf)]
+Reinforced UI Instruction Grounding: Towards a Generic UI Task Automation API [[Arxiv](https://arxiv.org/pdf/2310.04716.pdf)] ![](https://img.shields.io/badge/RL-orange)
 
 Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering [[Arxiv](https://arxiv.org/abs/2401.01780)]
 
