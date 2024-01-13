@@ -57,7 +57,7 @@ ToolChain*: Efficient Action Space Navigation in Large Language Models with A* S
 
 Tool-Augmented Reward Modeling [[Arxiv](https://arxiv.org/abs/2310.01045)] ![](https://img.shields.io/badge/RL-orange)
 
-ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving [[Arxiv](https://arxiv.org/abs/2309.17452)][[Code](https://github.com/microsoft/ToRA)]![](https://img.shields.io/badge/Math-green)
+ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving [[Arxiv](https://arxiv.org/abs/2309.17452)][[Code](https://github.com/microsoft/ToRA)]
 
 CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing [[Arxiv](https://arxiv.org/pdf/2305.11738.pdf)][[Code](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)]
 
