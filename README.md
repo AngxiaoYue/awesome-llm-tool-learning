@@ -55,7 +55,7 @@ Identifying the Risks of LM Agents with an LM-Emulated Sandbox [[Arxiv](https://
 
 ToolChain*: Efficient Action Space Navigation in Large Language Models with A* Search [[Arxiv](https://arxiv.org/pdf/2310.13227v1.pdf)]
 
-Tool-Augmented Reward Modeling [[Arxiv](https://arxiv.org/abs/2310.01045)]
+Tool-Augmented Reward Modeling [[Arxiv](https://arxiv.org/abs/2310.01045)] ![](https://img.shields.io/badge/RL-orange)
 
 ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving [[Arxiv](https://arxiv.org/abs/2309.17452)][[Code](https://github.com/microsoft/ToRA)]![](https://img.shields.io/badge/Math-green)
 
