@@ -104,10 +104,10 @@ MINT: Evaluating LLMs in Multi-turn Interaction with Tools and Language Feedback
 
 ToolEyes: Fine-Grained Evaluation for Tool Learning Capabilities of Large Language Models in Real-world Scenarios [[Arxiv](https://arxiv.org/abs/2401.00741)][[Code](https://github.com/junjie-ye/tooleyes)]
 
-InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks [[Arxiv](https://arxiv.org/abs/2401.05507)][[Code](https://github.com/infiagent/infiagent)]
-
 A Comprehensive Evaluation of Tool-Assisted Generation Strategies [[EMNLP Findings 2023](https://arxiv.org/abs/2310.10062)]
 
 ToolTalk: Evaluating Tool-Usage in a Conversational Setting [[Arxiv](https://arxiv.org/abs/2311.10775)][[Code](https://github.com/microsoft/ToolTalk)]
+
+InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks [[Arxiv](https://arxiv.org/abs/2401.05507)][[Code](https://github.com/infiagent/infiagent)]
 
 
