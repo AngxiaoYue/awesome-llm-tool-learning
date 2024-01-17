@@ -87,7 +87,7 @@ Reinforced UI Instruction Grounding: Towards a Generic UI Task Automation API [[
 
 Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering [[Arxiv](https://arxiv.org/abs/2401.01780)]
 
-
+EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction [[Arxiv](https://arxiv.org/abs/2401.06201)][[Code](https://github.com/microsoft/JARVIS/tree/main/easytool)]
 
 ## Benchmark
 (APIBench) Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
