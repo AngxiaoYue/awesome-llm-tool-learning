@@ -49,7 +49,7 @@ Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Diffic
 
 ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [[ICLR 2024](https://arxiv.org/pdf/2307.16789.pdf)][[Code](https://github.com/openbmb/toolbench)]
 
-CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets [[Arxiv](https://arxiv.org/abs/2309.17428)][[Code](https://github.com/lifan-yuan/craft)]
+CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets [[ICLR 2024](https://arxiv.org/abs/2309.17428)][[Code](https://github.com/lifan-yuan/craft)]
 
 ToolDec: Syntax Error-Free and Generalizable Tool Use for LLMs via Finite-State Decoding [[Arxiv](https://arxiv.org/abs/2310.07075)][[Code](https://github.com/chenhongqiao/tooldec)]
 
