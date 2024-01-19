@@ -89,6 +89,8 @@ Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in
 
 EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction [[Arxiv](https://arxiv.org/abs/2401.06201)][[Code](https://github.com/microsoft/JARVIS/tree/main/easytool)]
 
+Small LLMs Are Weak Tool Learners: A Multi-LLM Agent [[Arxiv](https://arxiv.org/abs/2401.07324)]
+
 ## Benchmark
 (APIBench) Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
 
