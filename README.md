@@ -47,7 +47,7 @@ ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Ca
 
 Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum [[AAAI 2024](https://arxiv.org/abs/2308.14034)][[Code](https://github.com/shizhl/Confucius)]
 
-ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [[Arxiv](https://arxiv.org/pdf/2307.16789.pdf)][[Code](https://github.com/openbmb/toolbench)]
+ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [[ICLR 2024](https://arxiv.org/pdf/2307.16789.pdf)][[Code](https://github.com/openbmb/toolbench)]
 
 CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets [[Arxiv](https://arxiv.org/abs/2309.17428)][[Code](https://github.com/lifan-yuan/craft)]
 
