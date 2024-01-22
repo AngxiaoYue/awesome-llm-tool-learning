@@ -114,4 +114,6 @@ ToolTalk: Evaluating Tool-Usage in a Conversational Setting [[Arxiv](https://arx
 
 InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks [[Arxiv](https://arxiv.org/abs/2401.05507)][[Code](https://github.com/infiagent/infiagent)]
 
+RoTBench: A Multi-Level Benchmark for Evaluating the Robustness of Large Language Models in Tool Learning [[Arxiv](https://arxiv.org/abs/2401.08326)][[Code](https://github.com/junjie-ye/rotbench)]
+
 
