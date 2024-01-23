@@ -5,6 +5,9 @@ A list of awesome papers on LLM tool learning.
 ReAct: Synergizing Reasoning and Acting in Language Models [[ICLR 2023](cmt3.research.microsoft.com/AAAI2024/Submission/MetaReviews/14045)][[Code](https://github.com/ysymyth/ReAct)]
 
 RRHF: Rank Responses to Align Language Models with Human Feedback without tears [[NeurIPS 2023](https://arxiv.org/abs/2304.05302)][[Code](https://github.com/ganjinzero/rrhf)]
+
+Extending Context Window of Large Language Models via Positional Interpolation [[Arxiv 2023](https://arxiv.org/abs/2306.15595)][[Code](https://github.com/ymcui/chinese-llama-alpaca-2)]
+
 ## Survey
 Tool Learning with Foundation Models [[Arxiv](https://arxiv.org/abs/2304.08354)][[Code](https://github.com/openbmb/bmtools)]
 
