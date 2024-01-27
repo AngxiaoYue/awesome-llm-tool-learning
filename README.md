@@ -96,6 +96,8 @@ Small LLMs Are Weak Tool Learners: A Multi-LLM Agent [[Arxiv](https://arxiv.org/
 
 CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges [[Arxiv](https://arxiv.org/abs/2401.07339)][[Code](https://github.com/zkcpku/CodeAgent)]
 
+AUTOACT: Automatic Agent Learning from Scratch via Self-Planning [[Arxiv](https://arxiv.org/abs/2401.05268)][[Code](https://github.com/zjunlp/autoact)]
+
 MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning  [[Arxiv](https://arxiv.org/abs/2401.10727)][[Code](https://github.com/MLLM-Tool/MLLM-Tool)]
 
 ## Benchmark
