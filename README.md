@@ -100,6 +100,9 @@ AUTOACT: Automatic Agent Learning from Scratch via Self-Planning [[Arxiv](https:
 
 MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning  [[Arxiv](https://arxiv.org/abs/2401.10727)][[Code](https://github.com/MLLM-Tool/MLLM-Tool)]
 
+Efficient Tool Use with Chain-of-Abstraction Reasoning [[Arxiv](https://arxiv.org/pdf/2401.17464v1.pdf)]
+
+
 ## Benchmark
 (APIBench) Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
 
@@ -124,5 +127,7 @@ ToolTalk: Evaluating Tool-Usage in a Conversational Setting [[Arxiv](https://arx
 InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks [[Arxiv](https://arxiv.org/abs/2401.05507)][[Code](https://github.com/infiagent/infiagent)]
 
 RoTBench: A Multi-Level Benchmark for Evaluating the Robustness of Large Language Models in Tool Learning [[Arxiv](https://arxiv.org/abs/2401.08326)][[Code](https://github.com/junjie-ye/rotbench)]
+
+Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios [[Arxiv](https://arxiv.org/abs/2401.17167)][[Code](https://github.com/joeying1019/ultratool)]
 
 
