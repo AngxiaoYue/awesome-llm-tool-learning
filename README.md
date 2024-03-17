@@ -104,6 +104,13 @@ AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls [[Arxiv]
 
 ToolRerank: Adaptive and Hierarchy-Aware Reranking for Tool Retrieval [[Arxiv](https://arxiv.org/abs/2403.06551)][[Code](https://github.com/XiaoMi/ToolRerank)]
 
+ToolNet: Connecting Large Language Models with Massive Tools via Tool Graph [[Arxiv](https://arxiv.org/pdf/2403.00839.pdf)]
+
+API-BLEND: A Comprehensive Corpora for Training and Benchmarking API LLMs [[Arxiv](https://arxiv.org/abs/2402.15491)]
+
+TOOLVERIFIER: Generalization to New Tools via Self-Verification [[Arxiv](https://arxiv.org/abs/2402.14158)][[Code](https://github.com/facebookresearch/toolverifier)]
+
+Look Before You Leap: Towards Decision-Aware and Generalizable Tool-Usage for Large Language Models [[Arxiv](https://arxiv.org/abs/2402.16696)]
 
 ## Benchmark
 (APIBench) Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
@@ -133,5 +140,9 @@ RoTBench: A Multi-Level Benchmark for Evaluating the Robustness of Large Languag
 Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios [[Arxiv](https://arxiv.org/abs/2401.17167)][[Code](https://github.com/joeying1019/ultratool)]
 
 ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages [[Arxiv](https://arxiv.org/abs/2402.10753)][[Code](https://github.com/junjie-ye/toolsword)]
+
+StableToolBench: Towards Stable Large-Scale Benchmarking on Tool Learning of Large Language Models [[Arxiv](https://arxiv.org/pdf/2403.07714.pdf)][Code](https://github.com/zhichengg/stabletoolbench)]
+
+
 
 
