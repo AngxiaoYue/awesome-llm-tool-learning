@@ -12,6 +12,7 @@ Extending Context Window of Large Language Models via Positional Interpolation [
 Tool Learning with Foundation Models [[Arxiv](https://arxiv.org/abs/2304.08354)][[Code](https://github.com/openbmb/bmtools)]
 
 ## Papers
+**2023**
 HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face [[Arxiv](https://arxiv.org/abs/2303.17580)][[Code](https://github.com/microsoft/JARVIS)]
 
 ART: Automatic multi-step reasoning and tool-use for large language models [[Arxiv](https://arxiv.org/abs/2303.09014)][[Code](https://github.com/guidance-ai/guidance)] 
@@ -94,8 +95,6 @@ EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction [[Arxiv](http
 
 Small LLMs Are Weak Tool Learners: A Multi-LLM Agent [[Arxiv](https://arxiv.org/abs/2401.07324)]
 
----
-
 CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges [[Arxiv](https://arxiv.org/abs/2401.07339)][[Code](https://github.com/zkcpku/CodeAgent)]
 
 AUTOACT: Automatic Agent Learning from Scratch via Self-Planning [[Arxiv](https://arxiv.org/abs/2401.05268)][[Code](https://github.com/zjunlp/autoact)]
@@ -103,6 +102,10 @@ AUTOACT: Automatic Agent Learning from Scratch via Self-Planning [[Arxiv](https:
 MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning  [[Arxiv](https://arxiv.org/abs/2401.10727)][[Code](https://github.com/MLLM-Tool/MLLM-Tool)]
 
 Efficient Tool Use with Chain-of-Abstraction Reasoning [[Arxiv](https://arxiv.org/pdf/2401.17464v1.pdf)]
+
+**2024**
+ToolRerank: Adaptive and Hierarchy-Aware Reranking for Tool Retrieval [[Arxiv](https://arxiv.org/abs/2403.06551)][[Code](https://github.com/XiaoMi/ToolRerank)]
+
 
 
 ## Benchmark
