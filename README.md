@@ -95,17 +95,14 @@ EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction [[Arxiv](http
 
 Small LLMs Are Weak Tool Learners: A Multi-LLM Agent [[Arxiv](https://arxiv.org/abs/2401.07324)]
 
-CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges [[Arxiv](https://arxiv.org/abs/2401.07339)][[Code](https://github.com/zkcpku/CodeAgent)]
-
-AUTOACT: Automatic Agent Learning from Scratch via Self-Planning [[Arxiv](https://arxiv.org/abs/2401.05268)][[Code](https://github.com/zjunlp/autoact)]
-
+### 2024
 MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning  [[Arxiv](https://arxiv.org/abs/2401.10727)][[Code](https://github.com/MLLM-Tool/MLLM-Tool)]
 
 Efficient Tool Use with Chain-of-Abstraction Reasoning [[Arxiv](https://arxiv.org/pdf/2401.17464v1.pdf)]
 
-### 2024
-ToolRerank: Adaptive and Hierarchy-Aware Reranking for Tool Retrieval [[Arxiv](https://arxiv.org/abs/2403.06551)][[Code](https://github.com/XiaoMi/ToolRerank)]
+AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls [[Arxiv](https://arxiv.org/abs/2402.04253)][[Code](https://github.com/dyabel/anytool)]
 
+ToolRerank: Adaptive and Hierarchy-Aware Reranking for Tool Retrieval [[Arxiv](https://arxiv.org/abs/2403.06551)][[Code](https://github.com/XiaoMi/ToolRerank)]
 
 
 ## Benchmark
@@ -113,7 +110,7 @@ ToolRerank: Adaptive and Hierarchy-Aware Reranking for Tool Retrieval [[Arxiv](h
 
 API-Bank: A Comprehensive Benchmark for Tool-Augmented LLMs [[EMNLP](https://arxiv.org/abs/2304.08244)][[Code](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/api-bank)]
 
-ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [[Arxiv](https://arxiv.org/pdf/2307.16789.pdf)][[Code](https://github.com/openbmb/toolbench)]
+(ToolBench) ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [[Arxiv](https://arxiv.org/pdf/2307.16789.pdf)][[Code](https://github.com/openbmb/toolbench)]
 
 ToolQA: A Dataset for LLM Question Answering with External Tools [[NeurIPS 2023](https://arxiv.org/abs/2306.13304)][[Code](https://github.com/night-chen/toolqa)]
 
@@ -134,5 +131,7 @@ InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks [[Arxiv](https://arx
 RoTBench: A Multi-Level Benchmark for Evaluating the Robustness of Large Language Models in Tool Learning [[Arxiv](https://arxiv.org/abs/2401.08326)][[Code](https://github.com/junjie-ye/rotbench)]
 
 Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios [[Arxiv](https://arxiv.org/abs/2401.17167)][[Code](https://github.com/joeying1019/ultratool)]
+
+ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages [[Arxiv](https://arxiv.org/abs/2402.10753)][[Code](https://github.com/junjie-ye/toolsword)]
 
 
