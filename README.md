@@ -1,4 +1,4 @@
-# Awesome-LLM-Tool-Learning
+# awesome-llm-tool-learning
 A list of awesome papers on LLM tool learning.
 
 ## Preliminary
