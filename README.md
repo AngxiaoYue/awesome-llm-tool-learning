@@ -95,6 +95,7 @@ EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction [[Arxiv](http
 
 Small LLMs Are Weak Tool Learners: A Multi-LLM Agent [[Arxiv](https://arxiv.org/abs/2401.07324)]
 
+
 ### 2024
 MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning  [[Arxiv](https://arxiv.org/abs/2401.10727)][[Code](https://github.com/MLLM-Tool/MLLM-Tool)]
 
@@ -142,6 +143,8 @@ Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization 
 ToolSword: Unveiling Safety Issues of Large Language Models in Tool Learning Across Three Stages [[Arxiv](https://arxiv.org/abs/2402.10753)][[Code](https://github.com/junjie-ye/toolsword)]
 
 StableToolBench: Towards Stable Large-Scale Benchmarking on Tool Learning of Large Language Models [[Arxiv](https://arxiv.org/pdf/2403.07714.pdf)][Code](https://github.com/zhichengg/stabletoolbench)]
+
+m&m's: A Benchmark to Evaluate Tool-Use for multi-step multi-modal Tasks [[Arxiv](https://arxiv.org/abs/2403.11085)][[Code](https://github.com/RAIVNLab/mnms)]
 
 
 
