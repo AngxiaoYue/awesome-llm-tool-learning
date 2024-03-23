@@ -115,6 +115,8 @@ Look Before You Leap: Towards Decision-Aware and Generalizable Tool-Usage for La
 
 LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error [[Arxiv](https://arxiv.org/abs/2403.04746)][[Code](https://github.com/microsoft/simulated-trial-and-error)]
 
+Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments [[Arxiv](https://arxiv.org/abs/2402.14672)][[Code](https://github.com/OSU-NLP-Group/Fuxi)]
+
 ## Benchmark
 (APIBench) Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
 
