@@ -117,6 +117,8 @@ LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error [[Arxiv
 
 Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments [[Arxiv](https://arxiv.org/abs/2402.14672)][[Code](https://github.com/OSU-NLP-Group/Fuxi)]
 
+Equipping Language Models with Tool Use Capability for Tabular Data Analysis in Finance [[Arxiv](https://arxiv.org/abs/2401.15328)][[Code](https://github.com/adriantheuma/llama2-raven)]
+
 ## Benchmark
 (APIBench) Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
 
