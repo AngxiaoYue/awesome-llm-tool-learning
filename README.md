@@ -113,6 +113,8 @@ TOOLVERIFIER: Generalization to New Tools via Self-Verification [[Arxiv](https:/
 
 Look Before You Leap: Towards Decision-Aware and Generalizable Tool-Usage for Large Language Models [[Arxiv](https://arxiv.org/abs/2402.16696)]
 
+LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error [[Arxiv](https://arxiv.org/abs/2403.04746)][[Code](https://github.com/microsoft/simulated-trial-and-error)]
+
 ## Benchmark
 (APIBench) Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
 
