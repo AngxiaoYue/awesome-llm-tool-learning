@@ -35,9 +35,9 @@ Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models [[Arx
 
 Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models [[NeurIPS 2023](https://arxiv.org/abs/2304.09842)][[Code](https://github.com/lupantech/chameleon-llm)]
 
-Toolformer: Language Models Can Teach Themselves to Use Tools [[NeurIPS 2023](https://arxiv.org/abs/2302.04761)][[Code](https://github.com/lucidrains/toolformer-pytorch)]
+**Toolformer: Language Models Can Teach Themselves to Use Tools** [[NeurIPS 2023](https://arxiv.org/abs/2302.04761)][[Code](https://github.com/lucidrains/toolformer-pytorch)]
 
-GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction [[NeurIPS 2023](https://arxiv.org/abs/2305.18752)][[Code](https://github.com/AILab-CVC/GPT4Tools)]
+**GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction** [[NeurIPS 2023](https://arxiv.org/abs/2305.18752)][[Code](https://github.com/AILab-CVC/GPT4Tools)]
 
 Evaluating and Improving Tool-Augmented Computation-Intensive Math Reasoning [[NeurIPS 2023](https://arxiv.org/abs/2306.02408)][[Code](https://github.com/rucaibox/carp)
 
@@ -51,7 +51,7 @@ ToolAlpaca: Generalized Tool Learning for Language Models with 3000 Simulated Ca
 
 Confucius: Iterative Tool Learning from Introspection Feedback by Easy-to-Difficult Curriculum [[AAAI 2024](https://arxiv.org/abs/2308.14034)][[Code](https://github.com/shizhl/Confucius)]
 
-ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs [[ICLR 2024](https://arxiv.org/pdf/2307.16789.pdf)][[Code](https://github.com/openbmb/toolbench)]
+**ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs** [[ICLR 2024](https://arxiv.org/pdf/2307.16789.pdf)][[Code](https://github.com/openbmb/toolbench)]
 
 CRAFT: Customizing LLMs by Creating and Retrieving from Specialized Toolsets [[ICLR 2024](https://arxiv.org/abs/2309.17428)][[Code](https://github.com/lifan-yuan/craft)]
 
@@ -69,7 +69,7 @@ CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing 
 
 RestGPT: Connecting Large Language Models with Real-World RESTful APIs [[Arxiv](https://arxiv.org/abs/2306.06624)]
 
-Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use [[Arxiv](https://arxiv.org/abs/2312.04455)]
+**Fortify the Shortest Stave in Attention: Enhancing Context Awareness of Large Language Models for Effective Tool Use** [[Arxiv](https://arxiv.org/abs/2312.04455)]
 
 ControlLLM: Augment Language Models with Tools by Searching on Graphs [[Arxiv](https://arxiv.org/pdf/2310.17796.pdf)][[Code](https://github.com/opengvlab/controlllm)] ![](https://img.shields.io/badge/Planning-green)
 
@@ -91,15 +91,15 @@ Reinforced UI Instruction Grounding: Towards a Generic UI Task Automation API [[
 
 Navigating Uncertainty: Optimizing API Dependency for Hallucination Reduction in Closed-Book Question Answering [[Arxiv](https://arxiv.org/abs/2401.01780)]
 
-EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction [[Arxiv](https://arxiv.org/abs/2401.06201)][[Code](https://github.com/microsoft/JARVIS/tree/main/easytool)]
+**EASYTOOL: Enhancing LLM-based Agents with Concise Tool Instruction** [[Arxiv](https://arxiv.org/abs/2401.06201)][[Code](https://github.com/microsoft/JARVIS/tree/main/easytool)]
 
-Small LLMs Are Weak Tool Learners: A Multi-LLM Agent [[Arxiv](https://arxiv.org/abs/2401.07324)]
+**Small LLMs Are Weak Tool Learners: A Multi-LLM Agent** [[Arxiv](https://arxiv.org/abs/2401.07324)]
 
 
 ### 2024
 MLLM-Tool: A Multimodal Large Language Model For Tool Agent Learning  [[Arxiv](https://arxiv.org/abs/2401.10727)][[Code](https://github.com/MLLM-Tool/MLLM-Tool)]
 
-Efficient Tool Use with Chain-of-Abstraction Reasoning [[Arxiv](https://arxiv.org/pdf/2401.17464v1.pdf)]
+**Efficient Tool Use with Chain-of-Abstraction Reasoning** [[Arxiv](https://arxiv.org/pdf/2401.17464v1.pdf)]
 
 AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls [[Arxiv](https://arxiv.org/abs/2402.04253)][[Code](https://github.com/dyabel/anytool)]
 
@@ -113,7 +113,7 @@ TOOLVERIFIER: Generalization to New Tools via Self-Verification [[Arxiv](https:/
 
 Look Before You Leap: Towards Decision-Aware and Generalizable Tool-Usage for Large Language Models [[Arxiv](https://arxiv.org/abs/2402.16696)]
 
-LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error [[Arxiv](https://arxiv.org/abs/2403.04746)][[Code](https://github.com/microsoft/simulated-trial-and-error)]
+**LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error** [[Arxiv](https://arxiv.org/abs/2403.04746)][[Code](https://github.com/microsoft/simulated-trial-and-error)]
 
 Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Environments [[Arxiv](https://arxiv.org/abs/2402.14672)][[Code](https://github.com/OSU-NLP-Group/Fuxi)]
 
