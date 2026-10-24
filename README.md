@@ -119,6 +119,10 @@ Middleware for LLMs: Tools Are Instrumental for Language Agents in Complex Envir
 
 Equipping Language Models with Tool Use Capability for Tabular Data Analysis in Finance [[Arxiv](https://arxiv.org/abs/2401.15328)][[Code](https://github.com/adriantheuma/llama2-raven)]
 
+
+### 2026
+Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction [[Arxiv](https://arxiv.org/abs/2601.12762)][[Code](https://github.com/NEUIR/ToolMaster)]
+
 ## Benchmark
 (APIBench) Gorilla: Large Language Model Connected with Massive APIs [[Arxiv](https://arxiv.org/abs/2305.15334)][[Code](https://github.com/ShishirPatil/gorilla)]
 
